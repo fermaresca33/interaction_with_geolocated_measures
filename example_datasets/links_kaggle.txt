@@ -1,0 +1,5 @@
+[Kaggle]road_noise_measurements_Poland _2018-19.zip
+https://www.kaggle.com/datasets/krystianadammolenda/road-noise-measurements-poland-2018-and-2019?resource=download
+
+[Kaggle]meteorite_landings.zip
+https://www.kaggle.com/datasets/nasa/meteorite-landings
