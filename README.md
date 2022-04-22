@@ -9,7 +9,7 @@ You can follow the "" notebook and be able to play with the information as much 
 In this case I decided to try the meteority dataset. So after unzip, load, and some dataframe cleaning; you would see something similar to the following image:
 
 <p align="center">
-  <img src="./documentation_files/initial_plot.jpg">
+  <img src="./documentation_files/initial_geo.jpg">
 </p>
 
 ![Alt text](documentation_files/poin_circle.jpg?raw=true "Title")
