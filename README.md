@@ -18,7 +18,9 @@ Important: The following order of installation using pip install is necessary. B
 If while trying to run the Sjoin you get: Spatial indexes require either `rtree` or `pygeos` in geopanda but rtree is installed then do:
 `pip install rtree`.
 
-You can follow the "" notebook and be able to play with the information as much as you want.
+## Geopandas Application
+
+You can follow the `geopandas_meteorite_landings` notebook and be able to play with the information as much as you want.
 
 In this case I decided to try the meteority dataset. So after unzip, load, and some dataframe cleaning; you would see something similar to the following image:
 
