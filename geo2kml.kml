@@ -1,0 +1,290 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://earth.google.com/kml/2.1'>
+<Document>
+   <name>geo2kml.kml</name>
+<Style id= '_stile_1' >
+   <IconStyle>
+       <scale>0.8</scale>
+       <color>ffF06E14</color>
+       <Icon><href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href></Icon>
+       <hotSpot x='20' y='2' xunits='pixels' yunits='pixels'/>
+   </IconStyle>
+   <LabelStyle>
+       <color>ffF06E14</color>
+   </LabelStyle>
+</Style>
+   <Placemark>
+       <visibility>0</visibility>
+       <styleUrl>#_stile_1</styleUrl>
+       <snippet maxLines='2'></snippet>
+       <description>
+           <![CDATA[
+               <table border='1' padding='3' widhth='500px'>
+               <tr><td>name</td><td>Drake Creek</td></tr>
+               <tr><td>id</td><td>7728</td></tr>
+               <tr><td>mass</td><td>5000</td></tr>
+               <tr><td>fall</td><td>Fell</td></tr>
+               <tr><td>year</td><td>1827</td></tr>
+               <tr><td>reclat</td><td>36.400000</td></tr>
+               <tr><td>reclong</td><td>-86.500000</td></tr>
+               </table>
+           ]]>
+       </description>
+       <Point>
+           <coordinates>-86.500000,36.400000</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <visibility>0</visibility>
+       <styleUrl>#_stile_1</styleUrl>
+       <snippet maxLines='2'></snippet>
+       <description>
+           <![CDATA[
+               <table border='1' padding='3' widhth='500px'>
+               <tr><td>name</td><td>Campbellsville</td></tr>
+               <tr><td>id</td><td>5245</td></tr>
+               <tr><td>mass</td><td>15400</td></tr>
+               <tr><td>fall</td><td>Found</td></tr>
+               <tr><td>year</td><td>1929</td></tr>
+               <tr><td>reclat</td><td>37.366670</td></tr>
+               <tr><td>reclong</td><td>-85.366670</td></tr>
+               </table>
+           ]]>
+       </description>
+       <Point>
+           <coordinates>-85.366670,37.366670</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <visibility>0</visibility>
+       <styleUrl>#_stile_1</styleUrl>
+       <snippet maxLines='2'></snippet>
+       <description>
+           <![CDATA[
+               <table border='1' padding='3' widhth='500px'>
+               <tr><td>name</td><td>Carthage</td></tr>
+               <tr><td>id</td><td>5282</td></tr>
+               <tr><td>mass</td><td>127000</td></tr>
+               <tr><td>fall</td><td>Found</td></tr>
+               <tr><td>year</td><td>1840</td></tr>
+               <tr><td>reclat</td><td>36.266670</td></tr>
+               <tr><td>reclong</td><td>-85.983330</td></tr>
+               </table>
+           ]]>
+       </description>
+       <Point>
+           <coordinates>-85.983330,36.266670</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <visibility>0</visibility>
+       <styleUrl>#_stile_1</styleUrl>
+       <snippet maxLines='2'></snippet>
+       <description>
+           <![CDATA[
+               <table border='1' padding='3' widhth='500px'>
+               <tr><td>name</td><td>Casey County</td></tr>
+               <tr><td>id</td><td>5286</td></tr>
+               <tr><td>mass</td><td>723</td></tr>
+               <tr><td>fall</td><td>Found</td></tr>
+               <tr><td>year</td><td>1877</td></tr>
+               <tr><td>reclat</td><td>37.250000</td></tr>
+               <tr><td>reclong</td><td>-85.000000</td></tr>
+               </table>
+           ]]>
+       </description>
+       <Point>
+           <coordinates>-85.000000,37.250000</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <visibility>0</visibility>
+       <styleUrl>#_stile_1</styleUrl>
+       <snippet maxLines='2'></snippet>
+       <description>
+           <![CDATA[
+               <table border='1' padding='3' widhth='500px'>
+               <tr><td>name</td><td>Cookeville</td></tr>
+               <tr><td>id</td><td>5431</td></tr>
+               <tr><td>mass</td><td>2300</td></tr>
+               <tr><td>fall</td><td>Found</td></tr>
+               <tr><td>year</td><td>1913</td></tr>
+               <tr><td>reclat</td><td>36.166670</td></tr>
+               <tr><td>reclong</td><td>-85.516670</td></tr>
+               </table>
+           ]]>
+       </description>
+       <Point>
+           <coordinates>-85.516670,36.166670</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <visibility>0</visibility>
+       <styleUrl>#_stile_1</styleUrl>
+       <snippet maxLines='2'></snippet>
+       <description>
+           <![CDATA[
+               <table border='1' padding='3' widhth='500px'>
+               <tr><td>name</td><td>Edmonton (Kentucky)</td></tr>
+               <tr><td>id</td><td>7771</td></tr>
+               <tr><td>mass</td><td>10200</td></tr>
+               <tr><td>fall</td><td>Found</td></tr>
+               <tr><td>year</td><td>1942</td></tr>
+               <tr><td>reclat</td><td>37.033330</td></tr>
+               <tr><td>reclong</td><td>-85.633330</td></tr>
+               </table>
+           ]]>
+       </description>
+       <Point>
+           <coordinates>-85.633330,37.033330</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <visibility>0</visibility>
+       <styleUrl>#_stile_1</styleUrl>
+       <snippet maxLines='2'></snippet>
+       <description>
+           <![CDATA[
+               <table border='1' padding='3' widhth='500px'>
+               <tr><td>name</td><td>Franklin</td></tr>
+               <tr><td>id</td><td>10178</td></tr>
+               <tr><td>mass</td><td>9062</td></tr>
+               <tr><td>fall</td><td>Found</td></tr>
+               <tr><td>year</td><td>1921</td></tr>
+               <tr><td>reclat</td><td>36.716670</td></tr>
+               <tr><td>reclong</td><td>-86.566670</td></tr>
+               </table>
+           ]]>
+       </description>
+       <Point>
+           <coordinates>-86.566670,36.716670</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <visibility>0</visibility>
+       <styleUrl>#_stile_1</styleUrl>
+       <snippet maxLines='2'></snippet>
+       <description>
+           <![CDATA[
+               <table border='1' padding='3' widhth='500px'>
+               <tr><td>name</td><td>Glasgow</td></tr>
+               <tr><td>id</td><td>10927</td></tr>
+               <tr><td>mass</td><td>20400</td></tr>
+               <tr><td>fall</td><td>Found</td></tr>
+               <tr><td>year</td><td>1922</td></tr>
+               <tr><td>reclat</td><td>37.016670</td></tr>
+               <tr><td>reclong</td><td>-85.916670</td></tr>
+               </table>
+           ]]>
+       </description>
+       <Point>
+           <coordinates>-85.916670,37.016670</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <visibility>0</visibility>
+       <styleUrl>#_stile_1</styleUrl>
+       <snippet maxLines='2'></snippet>
+       <description>
+           <![CDATA[
+               <table border='1' padding='3' widhth='500px'>
+               <tr><td>name</td><td>Jackson County</td></tr>
+               <tr><td>id</td><td>12066</td></tr>
+               <tr><td>mass</td><td>450</td></tr>
+               <tr><td>fall</td><td>Found</td></tr>
+               <tr><td>year</td><td>1846</td></tr>
+               <tr><td>reclat</td><td>36.416670</td></tr>
+               <tr><td>reclong</td><td>-85.500000</td></tr>
+               </table>
+           ]]>
+       </description>
+       <Point>
+           <coordinates>-85.500000,36.416670</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <visibility>0</visibility>
+       <styleUrl>#_stile_1</styleUrl>
+       <snippet maxLines='2'></snippet>
+       <description>
+           <![CDATA[
+               <table border='1' padding='3' widhth='500px'>
+               <tr><td>name</td><td>Livingston (Tennessee)</td></tr>
+               <tr><td>id</td><td>14669</td></tr>
+               <tr><td>mass</td><td>235</td></tr>
+               <tr><td>fall</td><td>Found</td></tr>
+               <tr><td>year</td><td>1937</td></tr>
+               <tr><td>reclat</td><td>36.416670</td></tr>
+               <tr><td>reclong</td><td>-85.250000</td></tr>
+               </table>
+           ]]>
+       </description>
+       <Point>
+           <coordinates>-85.250000,36.416670</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <visibility>0</visibility>
+       <styleUrl>#_stile_1</styleUrl>
+       <snippet maxLines='2'></snippet>
+       <description>
+           <![CDATA[
+               <table border='1' padding='3' widhth='500px'>
+               <tr><td>name</td><td>Nelson County</td></tr>
+               <tr><td>id</td><td>16942</td></tr>
+               <tr><td>mass</td><td>73030</td></tr>
+               <tr><td>fall</td><td>Found</td></tr>
+               <tr><td>year</td><td>1856</td></tr>
+               <tr><td>reclat</td><td>37.750000</td></tr>
+               <tr><td>reclong</td><td>-85.500000</td></tr>
+               </table>
+           ]]>
+       </description>
+       <Point>
+           <coordinates>-85.500000,37.750000</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <visibility>0</visibility>
+       <styleUrl>#_stile_1</styleUrl>
+       <snippet maxLines='2'></snippet>
+       <description>
+           <![CDATA[
+               <table border='1' padding='3' widhth='500px'>
+               <tr><td>name</td><td>Salt River</td></tr>
+               <tr><td>id</td><td>23113</td></tr>
+               <tr><td>mass</td><td>3600</td></tr>
+               <tr><td>fall</td><td>Found</td></tr>
+               <tr><td>year</td><td>1850</td></tr>
+               <tr><td>reclat</td><td>37.950000</td></tr>
+               <tr><td>reclong</td><td>-85.783330</td></tr>
+               </table>
+           ]]>
+       </description>
+       <Point>
+           <coordinates>-85.783330,37.950000</coordinates>
+       </Point>
+   </Placemark>
+   <Placemark>
+       <visibility>0</visibility>
+       <styleUrl>#_stile_1</styleUrl>
+       <snippet maxLines='2'></snippet>
+       <description>
+           <![CDATA[
+               <table border='1' padding='3' widhth='500px'>
+               <tr><td>name</td><td>Scottsville</td></tr>
+               <tr><td>id</td><td>23466</td></tr>
+               <tr><td>mass</td><td>10000</td></tr>
+               <tr><td>fall</td><td>Found</td></tr>
+               <tr><td>year</td><td>1867</td></tr>
+               <tr><td>reclat</td><td>36.766670</td></tr>
+               <tr><td>reclong</td><td>-86.166670</td></tr>
+               </table>
+           ]]>
+       </description>
+       <Point>
+           <coordinates>-86.166670,36.766670</coordinates>
+       </Point>
+   </Placemark>
+</Document>
+</kml>
