@@ -9,11 +9,11 @@ This projects aims to manage geolocated data (measurements points or any similar
 (https://towardsdatascience.com/geopandas-installation-the-easy-way-for-windows-31a666b3610f)
 
 Important: The following order of installation using pip install is necessary. Be careful with the filename. It should work if the filename is correct: (Tip: Type “pip install” followed by a space and type the first two letters of the binary and press Tab. (e.g. pip install gd(press Tab))
-	* pip install .\GDAL-3.4.2-cp310-cp310-win_amd64.whl
-	* pip install .\pyproj-3.3.0-cp310-cp310-win_amd64.whl
-	* pip install .\Fiona-1.8.21-cp310-cp310-win_amd64.whl
-	* pip install .\Shapely-1.8.1.post1-cp310-cp310-win_amd64.whl
-	* pip install .\geopandas-0.10.2-py2.py3-none-any.whl
+1. pip install .\GDAL-3.4.2-cp310-cp310-win_amd64.whl
+2. pip install .\pyproj-3.3.0-cp310-cp310-win_amd64.whl
+3. pip install .\Fiona-1.8.21-cp310-cp310-win_amd64.whl
+4. pip install .\Shapely-1.8.1.post1-cp310-cp310-win_amd64.whl
+5. pip install .\geopandas-0.10.2-py2.py3-none-any.whl
 
 If while trying to run the Sjoin you get: Spatial indexes require either `rtree` or `pygeos` in geopanda but rtree is installed then do:
 `pip install rtree`.
