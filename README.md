@@ -15,7 +15,7 @@ Important: The following order of installation using pip install is necessary. B
 4. pip install .\Shapely-1.8.1.post1-cp310-cp310-win_amd64.whl
 5. pip install .\geopandas-0.10.2-py2.py3-none-any.whl
 
-If while trying to run the Sjoin you get: Spatial indexes require either `rtree` or `pygeos` in geopanda but rtree is installed then do:
+If while trying to run the Sjoin you get: Spatial indexes require either `rtree` or `pygeos` in geopanda but rtree is installed, then do:
 `pip install rtree`.
 
 ## Geopandas Application
@@ -56,4 +56,4 @@ You should si something like the following:
   <img src="./documentation_files/kml_google_earth.jpg">
 </p>
 
-You can play with the points stile, size, the table info and much more aspects of the kml.
+You can play with the points style, size, the table info and much more aspects of the kml.
